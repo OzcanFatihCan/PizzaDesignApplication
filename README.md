@@ -1,4 +1,4 @@
-#Pizza Uygulama Tasarımı
+# Pizza Uygulama Tasarımı
 
 ## Projenin Açıklaması
 Merhaba,
