@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--Renkler -->
+    <color name="anaRenk">#CB2020</color>
+    <color name="anaRenkKoyu">#6D1A00</color>
+    <color name="yaziRenk1">#000000</color>
+    <color name="yaziRenk2">#636363</color>
+    <color name="toolBarColor">#FFFFFFFF</color>
+</resources>

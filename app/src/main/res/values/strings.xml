@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Pizza App Design</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="siparis">ORDER NOW</string>
+    <string name="fastFood">Delicious Fast Food</string>
+    <string name="hizliTeslimat">Fast Delivery</string>
+    <string name="aramaMetni">Search your pizza here</string>
+    <string name="pizzaText">Pizza</string>
+    <string name="burgerText">Burger</string>
+    <string name="snackText">Snack</string>
+    <string name="margheritaPizza">Margherita Pizza</string>
+    <string name="pepperoniPizza">Pepperoni Pizza</string>
+    <string name="veggiePizza">Veggie Pizza</string>
+    <string name="veggiePizza2">Veggie Pizza 2</string>
+    <string name="fiyatPizza1">$ 10.50</string>
+    <string name="fiyatPizza2">$ 11.50</string>
+    <string name="biberli">with Pepper</string>
+    <string name="domatesli">with lots of tomatoes</string>
+    <string name="kalori">Calories</string>
+    <string name="porsiyon">Portion</string>
+    <string name="dilimAdet1">6 slices</string>
+    <string name="boyut">Size</string>
+    <string name="kücükBoy">Small</string>
+    <string name="ortaBoy">Medium</string>
+    <string name="buyukBoy">Large</string>
+    <string name="ekstra">Extra</string>
+    <string name="pizzaInfo">
+Vegetable pizza is a type of pizza made with tomato sauce, cheese, and a variety of vegetables. It can be vegetarian or meat-based. Vegetables used can include tomatoes, onions, peppers, mushrooms, corn, olives, broccoli, spinach, zucchini, and eggplant. There are many varieties of vegetable pizza, including Margherita, pepperoni, Hawaiian, and veggie pizza.</string>
+    <string name="peynirText">Cheese</string>
+    <string name="soganText">Onion</string>
+    <string name="mantarText">Mushroom</string>
+    <string name="sepeteEkle">Add to cart</string>
+    <string name="calDeger">210 cal</string>
+</resources>

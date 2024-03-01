@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_main"
+    app:startDestination="@id/entranceScreenFragment">
+
+    <fragment
+        android:id="@+id/entranceScreenFragment"
+        android:name="com.ozcanfatihcan.pizzaappdesing.EntranceScreenFragment"
+        android:label="fragment_entrance_screen"
+        tools:layout="@layout/fragment_entrance_screen" >
+        <action
+            android:id="@+id/nextToMenu"
+            app:destination="@id/listMenuFragment"
+            app:enterAnim="@android:anim/overshoot_interpolator"
+            app:popEnterAnim="@android:anim/overshoot_interpolator" />
+    </fragment>
+    <fragment
+        android:id="@+id/listMenuFragment"
+        android:name="com.ozcanfatihcan.pizzaappdesing.ListMenuFragment"
+        android:label="fragment_list_menu"
+        tools:layout="@layout/fragment_list_menu" >
+        <action
+            android:id="@+id/nextToDetail"
+            app:destination="@id/detailScreenFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailScreenFragment"
+        android:name="com.ozcanfatihcan.pizzaappdesing.DetailScreenFragment"
+        android:label="fragment_detail_screen"
+        tools:layout="@layout/fragment_detail_screen" />
+</navigation>
